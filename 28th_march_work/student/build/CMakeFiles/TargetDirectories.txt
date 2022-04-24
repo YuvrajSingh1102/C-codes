@@ -1,0 +1,3 @@
+/home/einfochips/C++ programs/28th_march_work/student/build/CMakeFiles/rebuild_cache.dir
+/home/einfochips/C++ programs/28th_march_work/student/build/CMakeFiles/edit_cache.dir
+/home/einfochips/C++ programs/28th_march_work/student/build/CMakeFiles/testStudent.dir
